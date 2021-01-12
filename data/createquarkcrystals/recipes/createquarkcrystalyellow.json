@@ -1,0 +1,21 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "tag": "forge:dyes/yellow"
+    },
+    {
+      "item": "pamhc2foodcore:saltitem"
+    },
+    {
+      "fluid": "minecraft:water",
+      "nbt": {},
+      "amount": 100
+    }
+  ],
+  "results": [
+    {
+      "item": "quark:yellow_crystal"
+    }
+  ]
+}

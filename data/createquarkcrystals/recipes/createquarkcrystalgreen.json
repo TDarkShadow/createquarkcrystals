@@ -1,0 +1,21 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "tag": "forge:dyes/green"
+    },
+    {
+      "item": "pamhc2foodcore:saltitem"
+    },
+    {
+      "fluid": "minecraft:water",
+      "nbt": {},
+      "amount": 100
+    }
+  ],
+  "results": [
+    {
+      "item": "quark:green_crystal"
+    }
+  ]
+}
